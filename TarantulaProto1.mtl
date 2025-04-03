@@ -1,0 +1,13 @@
+# Blender 4.3.2 MTL File: 'Tarantula-MWO.blend'
+# www.blender.org
+
+newmtl color_6970902
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.415686 0.368627 0.086275
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd TarantulaProto1.png
